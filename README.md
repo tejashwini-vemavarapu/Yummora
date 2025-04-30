@@ -6,32 +6,41 @@ Yummora is a smart, elegant cooking web app designed to help fast-paced individu
 Yummora is a smart kitchen assistant that helps you create personalized, nutrition-first meals using ingredients you already have — while aligning with your fitness goals, mood, time constraints, and dietary needs. Powered by the Gemini API, it turns your fridge into a health-focused, AI-curated meal planner.
 
 🧠 The Recipe Behind Yummora
+
 Our secret sauce for turning data into delicious decisions.
 
 Yummora isn't just another recipe app — it's an intelligent kitchen companion designed with purpose. Here's what makes it special:
 
-🥗 Fitness & Nutrition First
+🥗 Fitness & Nutrition First:
+
 Meals are aligned with your fitness goals — whether it's fat loss, strength-building, or gut health. Macros and nutrients drive the engine.
 
-🧠 Smart Ingredient Matching
+🧠 Smart Ingredient Matching:
+
 Uses what's in your fridge and pantry, minimizing waste and sparking creative meal ideas.
 
-⏱ Time-Aware Meal Planning
+⏱ Time-Aware Meal Planning:
+
 Whether you've got 10 minutes or 30, Yummora adjusts meals based on your available time.
 
-😌 Mood + Wellness Sensitive
+😌 Mood + Wellness Sensitive:
+
 Feeling bloated, tired, or just not in the mood? Yummora adapts to how you feel, not just what you say.
 
-⚠️ Allergy & Diet Conscious
+⚠️ Allergy & Diet Conscious:
+
 Gluten-free, nut-free, dairy-free — no problem. Yummora filters out ingredients based on your needs.
 
-🌍 Global Flavor, Local Simplicity
+🌍 Global Flavor, Local Simplicity:
+
 Explore global cuisines made simple with ingredients you already own.
 
-💬 Conversational, Context-Aware AI
+💬 Conversational, Context-Aware AI:
+
 Built with LLMs and Gemini API, Yummora understands your preferences and evolves with your habits.
 
-💡 Real Intelligence, Real Impact
+💡 Real Intelligence, Real Impact:
+
 Yummora blends AI and nutrition to help you cook smarter, eat better, and stay on track with your wellness goals.
 ---
 
