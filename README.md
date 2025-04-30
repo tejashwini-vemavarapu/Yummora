@@ -2,7 +2,7 @@
    Eat Smart, Cook Fast, Feel Better
 Yummora is a smart, elegant cooking web app designed to help fast-paced individuals create delicious, healthy meals quickly. By integrating Gemini AI, Yummora provides personalized meal recommendations based on your mood and the ingredients you have at home. Whether you're looking for a quick bite, a comforting meal, or something new to try, Yummora is here to make cooking a breeze.
 
-📖 Overview
+📖 Overview : 
 Yummora is a smart kitchen assistant that helps you create personalized, nutrition-first meals using ingredients you already have — while aligning with your fitness goals, mood, time constraints, and dietary needs. Powered by the Gemini API, it turns your fridge into a health-focused, AI-curated meal planner.
 
 🧠 The Recipe Behind Yummora
